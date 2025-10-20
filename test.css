@@ -1,0 +1,14 @@
+table{
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px; auto;//마진의 설명
+}
+
+table, td {
+  border: 10px solid #e98e8e;  //테두리의 색상과 굵기를 설정하는 명령어
+}
+
+td{
+  padding: 10px 20px;
+  text-align: center; //html에서 줄 귿는 건 hr임
+}
